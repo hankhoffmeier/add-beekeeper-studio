@@ -41,6 +41,7 @@
 - [Studio 3T](https://studio3t.com/) - A powerful GUI and IDE for MongoDB with a built-in query editor.
 - [DBeaver](https://dbeaver.io/) - A free, universal database tool that supports MongoDB.
 - [NoSQLBooster for MongoDB](https://nosqlbooster.com/) - A MongoDB GUI client with intelligent query capabilities.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/db/mongodb-client/) - A cross-platform database manager with SQL querying and a built-in MongoDB shell (MongoDB support in paid tiers).
 
 ## Backup and Migration
 
